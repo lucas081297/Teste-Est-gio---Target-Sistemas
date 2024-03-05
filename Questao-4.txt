@@ -1,0 +1,5 @@
+1 - Ligar um interruptor, esperar 10min, desligar esse mesmo interruptor
+2 - Ligar outro interruptor
+3 - Ida até a sala
+4 - A que está ligada é com o interruptor ligado, a quente é a primeira que foi ligada, a fria é que nao está ligada
+

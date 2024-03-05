@@ -1,0 +1,6 @@
+a) 1,3,5,7 - Lógica: +2
+b) 2,4,8,16,32,64,128 - Lógica: Base Binária
+c) 0,1,4,9,16,25,36,49 - Lógica: Numero anterior + sequencia crescente de números impar
+d) 4,16,36,64,100 - Lógica: Potencia Quadrada, soma-se 2 na base a cada numero
+e) 1,1,2,3,5,8,13 - Lógica: Fibonacci 
+f) 2,10,12,16,17,18,19,200 - Lógica: Numeros que começam com a letra D
