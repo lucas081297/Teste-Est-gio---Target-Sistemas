@@ -4,7 +4,7 @@ const { stdin: input, stdout: output } = require('node:process');
 
 const rl = readline.createInterface({ input, output });
 
-rl.question('Entre com um número qualquer ', (answer) => {
+rl.question('Entre com um número qualquer: ', (answer) => {
     var chosenNumber = answer
     try{
         Isfibonacci(chosenNumber)
